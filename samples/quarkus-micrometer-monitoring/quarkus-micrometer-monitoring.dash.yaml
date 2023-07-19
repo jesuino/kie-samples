@@ -2,7 +2,7 @@ properties:
   # use -1 to cancel auto refresh
   refreshInterval: -1
   # Change to your quarkus installation URL e.g. http://localhost:8080/q/metrics
-  metricsUrl: https://raw.githubusercontent.com/kiegroup/kie-samples/main/samples/quarkus-micrometer-monitoring/metrics
+  metricsUrl: https://raw.githubusercontent.com/kiegroup/kie-samples/main/samples/quarkus-micrometer-monitoring/q/metrics
 global:
   mode: dark  
   settings:
